@@ -23,7 +23,7 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Sep 29 | No meeting   |                                          |
 | Oct 6  | Genevera     | [Introduction to Graphical Models (Ch.9)](https://trevorhastie.github.io/index.html)                                         |
 | Oct 13 | Qianli       | [With or without you: predictive coding and Bayesian inference in the brain.](http://www.sciencedirect.com/science/article/pii/S0959438817300454) Aitchison & Lengyel *Curr. Op. in Neurobio.* (2017)                                         |
-| Oct 20 | Ralf Haefner | [Perceptual Decision-Making as Probabilistic Inference by Neural Sampling.] (http://www.cnbc.cmu.edu/braingroup/papers/haefner_etal_2016.pdf) Haefner et al. *Neuron* (2016)           |
+| Oct 20 | Ralf Haefner | [Perceptual Decision-Making as Probabilistic Inference by Neural Sampling.](http://www.cnbc.cmu.edu/braingroup/papers/haefner_etal_2016.pdf) Haefner et al. *Neuron* (2016)           |
 | Oct 27 | Aram         |                                          |
 | Nov 3  |              |                                          |
 | Nov 10 |              |                                          |
