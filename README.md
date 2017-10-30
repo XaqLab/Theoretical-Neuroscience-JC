@@ -29,6 +29,6 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Nov 10 | Adrian       | [Rats optimally accumulate and discount evidence in a dynamic environment.](https://www.biorxiv.org/content/early/2017/10/17/204248?%3Fcollection=) Piet et al. *bioRxiv* (2017)                                         |
 | Nov 17 |              |                                          |
 | Nov 24 | Thanksgiving |                                          |
-| Dec 1  |              |                                          |
+| Dec 1  | Harel        |                                          |
 | Dec 8  | NIPS         |                                          |
 
