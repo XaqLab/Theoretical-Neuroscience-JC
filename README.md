@@ -25,7 +25,7 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Oct 13 | Qianli       | [With or without you: predictive coding and Bayesian inference in the brain.](http://www.sciencedirect.com/science/article/pii/S0959438817300454) Aitchison & Lengyel *Curr. Op. in Neurobio.* (2017)                                         |
 | Oct 20 | Ralf Haefner | [Perceptual Decision-Making as Probabilistic Inference by Neural Sampling.](http://www.cnbc.cmu.edu/braingroup/papers/haefner_etal_2016.pdf) Haefner et al. *Neuron* (2016)           |
 | Oct 27 | NeuroEngineering symposium  |                                          |
-| Nov 3  | Aram         | [The Infinite Hidden Markov Model](https://papers.nips.cc/paper/1956-the-infinite-hidden-markov-model.pdf)                                         |
+| Nov 3  | Aram         | [The Infinite Hidden Markov Model](https://papers.nips.cc/paper/1956-the-infinite-hidden-markov-model.pdf) Beal et al. *NIPS* (2002)                                        |
 | Nov 10 | Adrian       | [Rats optimally accumulate and discount evidence in a dynamic environment.](https://www.biorxiv.org/content/early/2017/10/17/204248?%3Fcollection=) Piet et al. *bioRxiv* (2017)                                         |
 | Nov 17 | Giuseppe     |                                          |
 | Nov 24 | Thanksgiving |                                          |
