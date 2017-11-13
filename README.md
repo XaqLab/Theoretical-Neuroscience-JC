@@ -27,7 +27,7 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Oct 27 | NeuroEngineering symposium  |                                          |
 | Nov 3  | Aram         | [The Infinite Hidden Markov Model](https://papers.nips.cc/paper/1956-the-infinite-hidden-markov-model.pdf) Beal et al. *NIPS* (2002)                                        |
 | Nov 10 | Adrian       | [Rats optimally accumulate and discount evidence in a dynamic environment.](https://www.biorxiv.org/content/early/2017/10/17/204248?%3Fcollection=) Piet et al. *bioRxiv* (2017)                                         |
-| Nov 17 | Giuseppe     |                                          |
+| Nov 17 | Ingmar       | [Q&A Session: A synthetic approach to understand hard navigation in the brain.](https://arxiv.org/abs/1609.09059) Kanitscheider & Fiete *NIPS* (2017)                                 |
 | Nov 24 | Thanksgiving |                                          |
 | Dec 1  | Harel        |                                          |
 | Dec 8  | NIPS         |                                          |
