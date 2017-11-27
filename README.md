@@ -32,4 +32,5 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Nov 24 | Thanksgiving |                                          |
 | Dec 1  | Harel        |                                          |
 | Dec 8  | NIPS         |                                          |
+| Dec 15  | Kaushik     | [A theory of multineuronal dimensionality, dynamics and measurement.](https://www.biorxiv.org/content/early/2017/11/12/214262) Gao et al. *bioRxiv* (2017)                   |
 
