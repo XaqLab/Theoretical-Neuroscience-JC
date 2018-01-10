@@ -13,8 +13,33 @@ BCM S553
 If you’d like to be added to the email list or sign up to present, please contact Kijung Yoon (kijung [dot] yoon [at] gmail [dot] com).
 
 
+##### Current Schedule (Spring 2018)
 
-##### Current Schedule (Fall 2017)
+| Date   | Presenter   | Reading                                  |
+| :----- | :---------- | :--------------------------------------- |
+| Jan 12 | Emin        | [Computational principles of synaptic memory consolidation.](https://www.nature.com/articles/nn.4401) Benna and Fusi *Nature Neurosci.* (2016) |
+| Jan 19 | Robbe Goris | Q&A session                              |
+| Jan 26 | No meeting  | GCC Theoretical & Computational Neuroscience Annual Conference |
+| Feb 2  | Giuseppe    |                                          |
+| Feb 9  |             |                                          |
+| Feb 16 |             |                                          |
+| Feb 23 |             |                                          |
+| Mar 2  | No meeting  | COSYNE Meeting                           |
+| Mar 9  |             |                                          |
+| Mar 16 |             |                                          |
+| Mar 23 |             |                                          |
+| Mar 30 |             |                                          |
+| Apr 6  |             |                                          |
+| Apr 13 |             |                                          |
+| Apr 20 |             |                                          |
+| Apr 27 |             |                                          |
+| May 4  |             |                                          |
+| May 11 |             |                                          |
+| May 18 |             |                                          |
+| May 25 |             |                                          |
+
+
+##### Past Schedule (Fall 2017)
 
 | Date   | Presenter    | Reading                                  |
 | :----- | :----------- | :--------------------------------------- |
