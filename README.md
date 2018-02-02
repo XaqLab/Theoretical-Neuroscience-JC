@@ -20,7 +20,7 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Jan 12 | Emin        | [Computational principles of synaptic memory consolidation.](https://www.nature.com/articles/nn.4401) Benna and Fusi *Nature Neurosci.* (2016) |
 | Jan 19 | Robbe Goris | Q&A session                              |
 | Jan 26 | No meeting  | GCC Theoretical & Computational Neuroscience Annual Conference |
-| Feb 2  | Giuseppe    |                                          |
+| Feb 2  | Giuseppe    | [Structure in neural population recordings: an expected byproduct of simpler phenomena?](http://stat.columbia.edu/~cunningham/pdf/ElsayedNN2017.pdf) Elsayed and Cunningham *Nature Neurosci.* (2017)                                         |
 | Feb 9  |             |                                          |
 | Feb 16 |             |                                          |
 | Feb 23 |             |                                          |
