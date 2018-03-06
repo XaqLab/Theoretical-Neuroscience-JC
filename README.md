@@ -26,8 +26,8 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Feb 23 | Tianyi      | [Learning and attention reveal ageneral relationship betweenpopulation activity and behavior](http://science.sciencemag.org/content/sci/359/6374/463.full.pdf) Ni et al. *Science* (2018)                                         |
 | Mar 2  | No meeting  | COSYNE Meeting                           |
 | Mar 9  | Satyajit Ghosh | Postdoc candidate talk                      |
-| Mar 16 | Alan        | [Linking connectivity, dynamics and computations in recurrent neural networks](https://arxiv.org/pdf/1711.09672.pdf) Mastrogiuseppe and Ostojic *arXiv*  (2017)                                         |
-| Mar 23 |             |                                          |
+| Mar 16 | Raj         | [A nonlinear updating algorithm captures suboptimal inference in the presence of signal-dependent noise](https://www.biorxiv.org/content/biorxiv/early/2018/02/07/258434.full.pdf) Egger and Jazayeri *bioRxiv*  (2018)                                         |
+| Mar 23 | Alan        | [Linking connectivity, dynamics and computations in recurrent neural networks](https://arxiv.org/pdf/1711.09672.pdf) Mastrogiuseppe and Ostojic *arXiv*  (2017)  |
 | Mar 30 |             |                                          |
 | Apr 6  |             |                                          |
 | Apr 13 |             |                                          |
