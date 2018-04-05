@@ -29,7 +29,7 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Mar 16 | Raj         | [A nonlinear updating algorithm captures suboptimal inference in the presence of signal-dependent noise](https://www.biorxiv.org/content/biorxiv/early/2018/02/07/258434.full.pdf) Egger and Jazayeri *bioRxiv*  (2018)                                         |
 | Mar 23 | Zhe         | [Opening the Black Box: Low-Dimensional Dynamics in High-Dimensional Recurrent Neural Networks](http://ccn.johndmurray.org/ccn_2013/materials/pdf/mante/sussillo_2013.pdf) Sussillo and Barak *Neural Computation* (2013)  |
 | Mar 30 | Alan        | [Linking connectivity, dynamics and computations in recurrent neural networks](https://arxiv.org/pdf/1711.09672.pdf) Mastrogiuseppe and Ostojic *arXiv*  (2017)                                         |
-| Apr 6  |             |                                          |
+| Apr 6  | Chad Giusti | Simplicial models for neural system function.                                         |
 | Apr 13 |             |                                          |
 | Apr 20 |             |                                          |
 | Apr 27 |             |                                          |
