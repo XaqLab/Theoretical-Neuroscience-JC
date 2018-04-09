@@ -31,7 +31,7 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Mar 30 | Alan        | [Linking connectivity, dynamics and computations in recurrent neural networks](https://arxiv.org/pdf/1711.09672.pdf) Mastrogiuseppe and Ostojic *arXiv*  (2017)                                         |
 | Apr 6  | Chad Giusti | Simplicial models for neural system function.                                         |
 | Apr 13 |             |                                          |
-| Apr 20 |             |                                          |
+| Apr 20 | Yossi       | [New Types of Experiments Reveal that a Neuron Functions as Multiple Independent Threshold Units](https://www.nature.com/articles/s41598-017-18363-1.pdf) Sardi et al. *Scientific Reports* (2017)                   |
 | Apr 27 |             |                                          |
 | May 4  |             |                                          |
 | May 11 |             |                                          |
